@@ -23,4 +23,4 @@ Response --> An HTML page listing the last 20 operations performed on the server
 Main Endpoint -->
 
 URL -->http://localhost:3000/
-RResponse -->An HTML page listing all available demo endpoints for mathematical operations.
+Response -->An HTML page listing all available demo endpoints for mathematical operations.
