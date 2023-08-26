@@ -6,7 +6,7 @@ NOTE : YOU CAN FIND THE REQUIRED SERVER CODE IN THE BACKEND FOLDER WITH NAME ser
         Kalvium_backend_SRMIST_RA2011003010561 / backend / server.js
 
 
-I developed a server capable of processing mathematical operations transmitted via URL. 
+I developed an express server capable of processing mathematical operations transmitted via URL. 
 It has the added functionality of preserving a history of the last 20 operations executed on the server.
 Operating on localhost:3000, the server can handle an array of mathematical operations, demonstrated through endpoints such as /5/plus/3, 
 which would yield a JSON response like {question: "5+3", answer: 8}. 
